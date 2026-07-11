@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/docryn/.github/discussions
+    about: Please ask questions and discuss ideas here.
+
+  - name: 📚 Documentation
+    url: https://github.com/docryn/docryn-docs
+    about: Read the official documentation before opening an issue.
+
+  - name: 🔒 Security Issues
+    url: mailto:security@docryn.dev
+    about: Please report security vulnerabilities privately.
